@@ -58,3 +58,5 @@ display:block;
 margin-top: 1.75em;
 border-radius: 35%;
   font-family: Lora, serif;}
+button:hover {background-color: #F7F4ED;
+color: #F05A50;}
