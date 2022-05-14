@@ -46,7 +46,7 @@ border-color: #474747;
 background-color:#F7F4ED;
 min-height: 4em;
 padding: 6px;}
-input[type="submit"] {margin: auto;
+button {margin: auto;
 background-color: #F05A50;
 color: #F7F4ED;
 border-color: hsla(4, 84%, 40%, 1);
