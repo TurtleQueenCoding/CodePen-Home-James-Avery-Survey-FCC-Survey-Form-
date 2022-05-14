@@ -24,7 +24,6 @@ fieldset {
   border-width: thick;
   border-style: solid;
   padding: 5% 10% 5% 10%;
-  border-bottom: none;
 }
 .description {font-size: 18; width: 70vw;
 margin: auto;
@@ -57,5 +56,5 @@ font-size: 30px;
 padding: 1.5em;
 display:block;
 margin-top: 1.75em;
-border-radius: 50%;
-font-family: Lora, serif;}
+border-radius: 35%;
+  font-family: Lora, serif;}
