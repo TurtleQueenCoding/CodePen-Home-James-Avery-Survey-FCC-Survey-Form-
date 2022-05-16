@@ -1,4 +1,4 @@
-# JamesAvery Survey: FCC Survey Form
+# James Avery Survey: FCC Survey Form
 <p>FreeCodeCamp: Responsive Web Design Projects - Survey Form</p>
 <p>This is the first project of the Responsive Web Design Certification in Free Code Camp. The objective of this challenge was to build a survey form that meets the 16 user stories specified by Free Code Camp. I decided to do my project on James Avery, one of my favorite jewelry companies. I also used what I've learned on Free Code Camp to make the website attractive in addition to simply meeting the user stories.</p>
-<p>More information on the project and its requirements can be found <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form">here</a>. I have also posted my survey form on Codepen, which you can see <a href="https://codepen.io/TurtleQueenCoding/pen/WNMoMoa">here</a>.
+<p>More information on the project and its requirements can be found <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">here</a>. I have also posted my survey form on Codepen, which you can see <a href="https://codepen.io/TurtleQueenCoding/pen/vYdXJoZ">here</a>.
