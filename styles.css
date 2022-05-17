@@ -5,13 +5,23 @@ body {width: 100%;
   color: #474747;
   font-family: Nunito, sans-serif;
   font-size: 20px;}
-header {text-align: center;
-margin: 1.5em auto;}
-h1 {color: hsla(4, 84%, 40%, 1);
-font-family: Lora, serif;
-font-size: 50px;
+header {
   text-align: center;
-  margin-top: 0.5em}
+  margin: 0 auto 1.5em auto;
+  width: 70vw;
+  background-color: #F7F4ED;
+  padding-bottom: 1px;
+  border-color: #F7F4ED;
+  border-radius: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;}
+h1 {
+  color: hsla(4, 84%, 40%, 1);
+  font-family: Lora, serif;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 0;
+}
 label {
   color:hsla(4, 84%, 40%, 1);
   display: block;
@@ -27,6 +37,9 @@ fieldset {
   border-style: solid;
   padding: 5% 10% 5% 10%;
   border-radius: 10px;
+  border-bottom-right-radius: 0; 
+  border-bottom-left-radius: 0;
+  
 }
 .description {font-size: 18; width: 70vw;
 margin: auto;
@@ -38,7 +51,8 @@ input, select {display: block; font-family: Nunito, sans-serif;
   color: #474747;
   border-color: #474747;
   border-width: 1px;
-  padding: 4px;}
+  padding: 4px;
+}
   input[type="radio"], input[type=checkbox] {display: inline;}
   .radio-element, .checkbox-element {color: #474747;}
 select, input[type="text"], input[type="email"], input[type="number"], textarea {width: 100%;}
