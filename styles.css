@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap");
 body {
   width: 100%;
   height: 100%;
@@ -15,6 +17,7 @@ header {
   padding-top: 0.3em;
   background-color: hsla(356, 64%, 91%, 0.6);
   border-radius: 1em;
+  box-shadow: 4px 4px 10px 1px hsl(4, 84%, 30%);
 }
 h1 {
   font-family: Lora, serif;
@@ -53,6 +56,7 @@ fieldset {
   margin: 3.5em auto 2em;
   padding: 0 5% 2%;
   border-radius: 1em;
+  box-shadow: -5px 5px 10px 2px hsl(4, 84%, 30%);
 }
 .question {
   font-size: 30px;
@@ -75,6 +79,7 @@ select {
   padding: 5px;
   text-align: left;
   padding-left: 0.3em;
+  border-radius: 4px;
 }
 input[type="radio"],
 input[type="checkbox"] {
@@ -94,7 +99,7 @@ textarea {
 textarea {
   background-color: #f7f4ed;
   border-color: hsl(0, 0%, 15%);
-  border: 1 pix solid;
+  border: 1px solid;
   min-height: 4em;
   padding: 6px;
   width: 100%;
@@ -161,6 +166,11 @@ button:hover {
   }
 }
 @media screen and (max-width: 640px) {
+  body {
+    background-image: url(https://i.imgur.com/IGvKzMm.jpg);
+    background-size: cover;
+    background-attachment: attached;
+  }
   header,
   fieldset {
     width: 80vw;
