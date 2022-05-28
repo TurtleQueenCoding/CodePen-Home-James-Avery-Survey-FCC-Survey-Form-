@@ -60,6 +60,9 @@ fieldset {
   font-size: 30px;
   margin-top: 1.5em;
 }
+.smallertxt {
+  font-size: 20px;
+}
 .description {
   margin: auto;
   margin-bottom: 1.6em;
@@ -139,6 +142,9 @@ button:hover {
   .question {
     font-size: 24px;
   }
+  .smallertxt {
+    size: 18px;
+  }
   button {
     font-size: 30px;
   }
@@ -160,6 +166,9 @@ button:hover {
   }
   .question {
     font-size: 20px;
+  }
+  .smallertxt {
+    font-size: 16px;
   }
   button {
     font-size: 20px;
